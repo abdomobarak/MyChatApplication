@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item android:title="Account Setting"
+        android:id="@+id/main_account_setting_Button"
+        app:showAsAction="never"></item>
+
+    <item android:title="All Users"
+        android:id="@+id/main_all_users_Button"
+        app:showAsAction="never"></item>
+
+
+
+    <item android:title="Sign out"
+        android:id="@+id/main_logOut_Button"
+        app:showAsAction="never"></item>
+
+
+
+
+</menu>
